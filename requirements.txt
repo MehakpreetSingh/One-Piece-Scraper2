@@ -1,1 +1,4 @@
-beautifulsoap4
+beautifulsoup4
+pandas
+streamlit
+requests
